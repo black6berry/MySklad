@@ -1,9 +1,9 @@
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## CRUD Project 
 
-[proj-img][mySklad-img]
-[proj-img][mySklad-img2]
+[![proj-img][mySklad-img]]
+[![proj-img2][mySklad-img2]]
 
 
 

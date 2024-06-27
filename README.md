@@ -2,7 +2,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![mySklad-img](https://github.com/black6berry/MySklad/img/mySklad.png)
+[![proj-img][mySklad-img]
 
 
 

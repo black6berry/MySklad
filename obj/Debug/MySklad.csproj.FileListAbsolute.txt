@@ -1,0 +1,70 @@
+C:\777_Mike_777\MGOK\WSR\MySklad\bin\Debug\MySklad.exe.config
+C:\777_Mike_777\MGOK\WSR\MySklad\bin\Debug\MySklad.exe
+C:\777_Mike_777\MGOK\WSR\MySklad\bin\Debug\MySklad.pdb
+C:\777_Mike_777\MGOK\WSR\MySklad\obj\Debug\MySklad.csproj.AssemblyReference.cache
+C:\777_Mike_777\MGOK\WSR\MySklad\obj\Debug\MySklad.csproj.SuggestedBindingRedirects.cache
+C:\777_Mike_777\MGOK\WSR\MySklad\obj\Debug\App.g.cs
+C:\777_Mike_777\MGOK\WSR\MySklad\obj\Debug\MySklad_MarkupCompile.cache
+C:\777_Mike_777\MGOK\WSR\MySklad\obj\Debug\MySklad_MarkupCompile.lref
+C:\777_Mike_777\MGOK\WSR\MySklad\obj\Debug\MySklad.g.resources
+C:\777_Mike_777\MGOK\WSR\MySklad\obj\Debug\MySklad.Properties.Resources.resources
+C:\777_Mike_777\MGOK\WSR\MySklad\obj\Debug\MySklad.csproj.GenerateResource.cache
+C:\777_Mike_777\MGOK\WSR\MySklad\obj\Debug\MySklad.csproj.CoreCompileInputs.cache
+C:\777_Mike_777\MGOK\WSR\MySklad\obj\Debug\MySklad.exe
+C:\777_Mike_777\MGOK\WSR\MySklad\obj\Debug\MySklad.pdb
+C:\777_Mike_777\MGOK\WSR\MySklad\obj\Debug\Windows\MainWindow.g.cs
+C:\777_Mike_777\MGOK\WSR\MySklad\obj\Debug\Windows\MainWindow.baml
+C:\777_Mike_777\MGOK\WSR\MySklad\bin\Debug\EntityFramework.dll
+C:\777_Mike_777\MGOK\WSR\MySklad\bin\Debug\EntityFramework.SqlServer.dll
+C:\777_Mike_777\MGOK\WSR\MySklad\bin\Debug\EntityFramework.xml
+C:\777_Mike_777\MGOK\WSR\MySklad\bin\Debug\EntityFramework.SqlServer.xml
+C:\777_Mike_777\MGOK\WSR\MySklad\bin\Debug\ru\EntityFramework.resources.dll
+C:\777_Mike_777\MGOK\WSR\MySklad\obj\Debug\Pages\ApplicationMainPage.g.cs
+C:\777_Mike_777\MGOK\WSR\MySklad\obj\Debug\MySklad_Content.g.cs
+C:\777_Mike_777\MGOK\WSR\MySklad\obj\Debug\Pages\ApplicationMainPage.baml
+C:\777_Mike_777\MGOK\WSR\MySklad\obj\Debug\MySklad.csproj.CopyComplete
+C:\777_Mike_777\MGOK\WSR\MySklad\obj\Debug\App.baml
+C:\777_Mike_777\MGOK\WSR\MySklad\bin\Debug\FontAwesome6.Core.dll
+C:\777_Mike_777\MGOK\WSR\MySklad\bin\Debug\FontAwesome6.Fonts.Net.dll
+C:\777_Mike_777\MGOK\WSR\MySklad\bin\Debug\FontAwesome6.Shared.Net.dll
+C:\777_Mike_777\MGOK\WSR\MySklad\bin\Debug\FontAwesome6.Fonts.Net.xml
+C:\777_Mike_777\MGOK\WSR\MySklad\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\777_Mike_777\MGOK\PC Progs\MySklad\bin\Debug\MySklad.exe.config
+C:\777_Mike_777\MGOK\PC Progs\MySklad\bin\Debug\MySklad.exe
+C:\777_Mike_777\MGOK\PC Progs\MySklad\bin\Debug\MySklad.pdb
+C:\777_Mike_777\MGOK\PC Progs\MySklad\bin\Debug\EntityFramework.dll
+C:\777_Mike_777\MGOK\PC Progs\MySklad\bin\Debug\EntityFramework.SqlServer.dll
+C:\777_Mike_777\MGOK\PC Progs\MySklad\bin\Debug\FontAwesome6.Core.dll
+C:\777_Mike_777\MGOK\PC Progs\MySklad\bin\Debug\FontAwesome6.Fonts.Net.dll
+C:\777_Mike_777\MGOK\PC Progs\MySklad\bin\Debug\FontAwesome6.Shared.Net.dll
+C:\777_Mike_777\MGOK\PC Progs\MySklad\bin\Debug\EntityFramework.xml
+C:\777_Mike_777\MGOK\PC Progs\MySklad\bin\Debug\EntityFramework.SqlServer.xml
+C:\777_Mike_777\MGOK\PC Progs\MySklad\bin\Debug\FontAwesome6.Fonts.Net.xml
+C:\777_Mike_777\MGOK\PC Progs\MySklad\bin\Debug\ru\EntityFramework.resources.dll
+C:\777_Mike_777\MGOK\PC Progs\MySklad\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\777_Mike_777\MGOK\PC Progs\MySklad\obj\Debug\MySklad.csproj.AssemblyReference.cache
+C:\777_Mike_777\MGOK\PC Progs\MySklad\obj\Debug\MySklad.csproj.SuggestedBindingRedirects.cache
+C:\777_Mike_777\MGOK\PC Progs\MySklad\obj\Debug\Pages\ApplicationMainPage.g.cs
+C:\777_Mike_777\MGOK\PC Progs\MySklad\obj\Debug\Windows\MainWindow.g.cs
+C:\777_Mike_777\MGOK\PC Progs\MySklad\obj\Debug\App.g.cs
+C:\777_Mike_777\MGOK\PC Progs\MySklad\obj\Debug\MySklad_Content.g.cs
+C:\777_Mike_777\MGOK\PC Progs\MySklad\obj\Debug\MySklad_MarkupCompile.cache
+C:\777_Mike_777\MGOK\PC Progs\MySklad\obj\Debug\MySklad_MarkupCompile.lref
+C:\777_Mike_777\MGOK\PC Progs\MySklad\obj\Debug\App.baml
+C:\777_Mike_777\MGOK\PC Progs\MySklad\obj\Debug\Pages\ApplicationMainPage.baml
+C:\777_Mike_777\MGOK\PC Progs\MySklad\obj\Debug\Windows\MainWindow.baml
+C:\777_Mike_777\MGOK\PC Progs\MySklad\obj\Debug\MySklad.g.resources
+C:\777_Mike_777\MGOK\PC Progs\MySklad\obj\Debug\MySklad.Properties.Resources.resources
+C:\777_Mike_777\MGOK\PC Progs\MySklad\obj\Debug\MySklad.csproj.GenerateResource.cache
+C:\777_Mike_777\MGOK\PC Progs\MySklad\obj\Debug\MySklad.csproj.CoreCompileInputs.cache
+C:\777_Mike_777\MGOK\PC Progs\MySklad\obj\Debug\MySklad.csproj.CopyComplete
+C:\777_Mike_777\MGOK\PC Progs\MySklad\obj\Debug\MySklad.exe
+C:\777_Mike_777\MGOK\PC Progs\MySklad\obj\Debug\MySklad.pdb
+C:\777_Mike_777\MGOK\PC Progs\MySklad\bin\Debug\xunit.abstractions.dll
+C:\777_Mike_777\MGOK\PC Progs\MySklad\bin\Debug\xunit.assert.dll
+C:\777_Mike_777\MGOK\PC Progs\MySklad\bin\Debug\xunit.core.dll
+C:\777_Mike_777\MGOK\PC Progs\MySklad\bin\Debug\xunit.execution.desktop.dll
+C:\777_Mike_777\MGOK\PC Progs\MySklad\bin\Debug\xunit.abstractions.xml
+C:\777_Mike_777\MGOK\PC Progs\MySklad\bin\Debug\xunit.assert.xml
+C:\777_Mike_777\MGOK\PC Progs\MySklad\bin\Debug\xunit.core.xml
+C:\777_Mike_777\MGOK\PC Progs\MySklad\bin\Debug\xunit.execution.desktop.xml

@@ -37,5 +37,5 @@
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
-[mySklad-img]: https://github.com/black6berry/MySklad/img/mySklad.png
-[mySklad-img2]: https://github.com/black6berry/MySklad/img/mySklad2.png 
+[mySklad-img]: https://github.com/black6berry/MySklad/blob/master/img/mySklad.png
+[mySklad-img2]: https://github.com/black6berry/MySklad/blob/master/img/mySklad2.png

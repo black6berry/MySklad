@@ -2,7 +2,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![proj-img][mySklad-img]
+[proj-img][mySklad-img]
+[proj-img][mySklad-img2]
 
 
 
